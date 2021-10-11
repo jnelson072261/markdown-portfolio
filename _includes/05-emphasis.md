@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+🙂
+- list item 1
+- list item 2
+  - sub-item
+
+1. numbered list item 1
+  2.  sub list
